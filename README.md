@@ -5,7 +5,7 @@
 
 -  🌱 I’m currently learning Hyperspectral Imaging(HSI)
 -  👯 I’m looking to collaborate on Deep Learning based projects 
--  📫 Reach me on [Twitter](https://www.twitter.com/lucciffer__)
+-  📫 Reach me on [My Portfolio](https://lucciffer.github.io/) [Twitter](https://www.twitter.com/lucciffer__)
       [Instagram](http://www.instagram.com/lucciffer._)
       [LinkedIn](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
 - ⚡ Fun fact: I can sip coffee and sleep the very next minute
