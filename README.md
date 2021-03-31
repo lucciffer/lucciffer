@@ -3,7 +3,7 @@
 
 ##### AI enthusiast
 
--  🌱 I’m currently learning Hyperspectral Inaging(HSI)
+-  🌱 I’m currently learning Hyperspectral Imaging(HSI)
 -  👯 I’m looking to collaborate on Machine Learning based projects 
 -  📫 How to reach me: [Twitter](https://www.twitter.com/lucciffer__)
       [Instagram](http://www.instagram.com/lucciffer._)
