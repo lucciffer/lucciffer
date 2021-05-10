@@ -10,6 +10,16 @@
       [LinkedIn](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
 - ⚡ Fun fact: I can sip coffee and sleep the very next minute
 
+## ⚡ Languages and Tools proficiency
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
+![MATLAB](https://img.shields.io/badge/-matlab%20-blue)
+![HTML](https://img.shields.io/badge/-HTML%20-blue)
+![CSS](https://img.shields.io/badge/-CSS%20-lightgrey)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
