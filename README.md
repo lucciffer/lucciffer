@@ -15,6 +15,7 @@
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
 ![MATLAB](https://img.shields.io/badge/-matlab%20-blue)
+![Simulink](https://img.shields.io/badge/-Simulink-orange)
 ![HTML](https://img.shields.io/badge/-HTML%20-blue)
 ![CSS](https://img.shields.io/badge/-CSS%20-lightgrey)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
