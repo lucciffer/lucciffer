@@ -21,7 +21,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&layout=compact&hide=html&theme=radical" alt="lucciffer" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucciffer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
