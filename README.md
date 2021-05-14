@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Kdenlive](https://img.shields.io/badge/-Kdenlive-FFFFFF?logo=kdenlive)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp)
 ![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu)
 ![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=redhat)
