@@ -20,7 +20,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
+![Arduino](https://img.shields.io/badge/-Arduino-lightgrey?logo=arduino)
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&layout=compact&hide=html&theme=radical" alt="lucciffer" />
