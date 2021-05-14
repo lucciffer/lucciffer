@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
-![MATLAB](https://img.shields.io/badge/-matlab%20-blue)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks)
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
