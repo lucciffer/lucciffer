@@ -10,19 +10,26 @@
       [LinkedIn](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
 - ⚡ Fun fact: I can sip coffee and sleep the very next minute
 
-## ⚡ Languages and Tools proficiency
+## ⚡ Languages, Technologies, and Tools proficiency
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
 ![MATLAB](https://img.shields.io/badge/-matlab%20-blue)
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
 ![HTML](https://img.shields.io/badge/-HTML5-blue?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
+![Kdenlive](https://img.shields.io/badge/-Kdenlive-FFFFFF?logo=kdenlive)
+![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu)
+![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=redhat)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-lightgrey?logo=arduino)
+![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&layout=compact&hide=html&theme=radical" alt="lucciffer" />
