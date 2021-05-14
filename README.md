@@ -16,8 +16,8 @@
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
 ![MATLAB](https://img.shields.io/badge/-matlab%20-blue)
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
-![HTML](https://img.shields.io/badge/-HTML%20-blue)
-![CSS](https://img.shields.io/badge/-CSS%20-lightgrey)
+![HTML](https://img.shields.io/badge/-HTML5-blue?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
