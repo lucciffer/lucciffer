@@ -45,8 +45,11 @@
 <a href="https://github.com/lucciffer/github-readme-stats">
   <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api/top-langs/?username=lucciffer&layout=compact&theme=material-palenight" />
 </a>
+<a href="https://github.com/lucciffer/lucciffer.github.io">
+  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=material-palenight" />
+</a>
 
-
+---
 
 ![](https://komarev.com/ghpvc/?username=lucciffer)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3rMcFKbH7ZJusOBGQ5SNvg?style=social)  
