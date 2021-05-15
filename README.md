@@ -42,7 +42,7 @@
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&layout=compact&hide=html&theme=radical" alt="lucciffer" />
 </p> 
-<img src="https://github-readme-stats.vercel.app/api?username=lucciffer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api?username=lucciffer&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![](https://komarev.com/ghpvc/?username=lucciffer)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3rMcFKbH7ZJusOBGQ5SNvg?style=social)  
