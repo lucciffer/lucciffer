@@ -47,8 +47,9 @@
 
 ![](https://komarev.com/ghpvc/?username=lucciffer)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3rMcFKbH7ZJusOBGQ5SNvg?style=social)  
-**If you like my work, and wish to support me, then**   
-<a href="https://www.buymeacoffee.com/luccy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="38" width="170"></a>
+**If you like my work, maybe consider buying me a coffee🥺**   
+
+<a href="https://www.buymeacoffee.com/luccy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 Thanks! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/apple/hugging-face-apple.png" height="20" width="20">
 
