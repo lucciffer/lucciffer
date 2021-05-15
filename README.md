@@ -28,6 +28,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu)
 ![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=redhat)
+![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-lightgrey?logo=arduino)
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
