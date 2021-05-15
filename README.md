@@ -48,3 +48,5 @@
 <a href="https://www.buymeacoffee.com/luccy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="38" width="170"></a>
 
 Thanks! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/apple/hugging-face-apple.png" height="20" width="20">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/luccy)
