@@ -5,8 +5,10 @@
 
 -  🌱 I’m currently learning Hyperspectral Imaging(HSI)
 -  👯 I’m looking to collaborate on Deep Learning based projects 
--  ### 📫 Connect with me on [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter)](https://www.twitter.com/lucciffer__) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?logo=instagram)](http://www.instagram.com/lucciffer._) [![LinkedIN](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
-- ⚡ Fun fact: I can sip coffee and sleep the very next minute
+-  ⚡ Fun fact: I can sip coffee and sleep the very next minute
+### 📫 Connect with me on   
+   [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter)](https://www.twitter.com/lucciffer__) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?logo=instagram)](http://www.instagram.com/lucciffer._) [![LinkedIN](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
+
 ---
 ## ⚡ Languages, Technologies, and Tools proficiency
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
