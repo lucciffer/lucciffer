@@ -7,7 +7,7 @@
 -  👯 I’m looking to collaborate on Deep Learning based projects 
 -  ### 📫 Connect with me on [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter)](https://www.twitter.com/lucciffer__) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?logo=instagram)](http://www.instagram.com/lucciffer._) [![LinkedIN](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169)
 - ⚡ Fun fact: I can sip coffee and sleep the very next minute
-
+---
 ## ⚡ Languages, Technologies, and Tools proficiency
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-++-00599C?style=flat-square&logo=c)
@@ -32,7 +32,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-lightgrey?logo=arduino)
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
+
+---
+
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucciffer&layout=compact&hide=html&theme=radical" alt="lucciffer" />
