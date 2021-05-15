@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)
 ![Kdenlive](https://img.shields.io/badge/-Kdenlive-FFFFFF?logo=kdenlive)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp)
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity)
