@@ -18,7 +18,7 @@
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
-![HTML](https://img.shields.io/badge/-HTML5-blue?logo=html5)
+![HTML](https://img.shields.io/badge/-HTML5-000000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -32,9 +32,9 @@
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora)
 ![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?logo=opensuse)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
-![Arduino](https://img.shields.io/badge/-Arduino-lightgrey?logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?logo=arduino)
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">  
+<img src="https://img.shields.io/badge/-Problem%20Solving-5C5543?style=flat">  
 
 ---
 
