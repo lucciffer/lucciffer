@@ -47,7 +47,7 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucciffer&theme=material-palenight)](https://git.io/streak-stats)
-<a href="https://github.com/lucciffer/lucciffer.github.io">
+<a href="https://lucciffer.github.io">
   <img src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=material-palenight" />
 </a>
 
