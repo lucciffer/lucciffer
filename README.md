@@ -40,13 +40,15 @@
 
 
 <a href="https://github.com/lucciffer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api?username=lucciffer&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lucciffer's github stats" />
+  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api?username=lucciffer&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Lucciffer's github stats" />
 </a>
 <a href="https://github.com/lucciffer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api/top-langs/?username=lucciffer&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app//api/top-langs/?username=lucciffer&layout=compact&theme=great-gatsby" />
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucciffer&theme=highcontrast)](https://git.io/streak-stats)
 <a href="https://github.com/lucciffer/lucciffer.github.io">
-  <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=material-palenight" />
+  <img src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=great-gatsby" />
 </a>
 
 ---
