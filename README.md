@@ -28,10 +28,10 @@
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity)
 ![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu)
-![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=redhat)
+![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=red%20hat)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora)
 ![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?logo=opensuse)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry%20pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?logo=arduino)
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
 <img src="https://img.shields.io/badge/-Problem%20Solving-5C5543?style=flat">  
