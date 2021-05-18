@@ -35,6 +35,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FFFFFF?logo=ubuntu)
 ![Red Hat Linux](https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?logo=red%20hat)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora)
