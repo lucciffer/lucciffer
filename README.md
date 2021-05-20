@@ -64,8 +64,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=lucciffer&color=brightgreen)  
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3rMcFKbH7ZJusOBGQ5SNvg?style=social)](https://www.youtube.com/channel/UC3rMcFKbH7ZJusOBGQ5SNvg)
+![](https://komarev.com/ghpvc/?username=lucciffer&color=brightgreen) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3rMcFKbH7ZJusOBGQ5SNvg?style=social)](https://www.youtube.com/channel/UC3rMcFKbH7ZJusOBGQ5SNvg)
 
 **If you like my work, maybe consider buying me a coffee🥺**   
 <a href="https://www.buymeacoffee.com/luccy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
