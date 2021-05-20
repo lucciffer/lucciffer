@@ -3,7 +3,7 @@
 
 ##### AI enthusiast
 
--  🌱 I’m currently learning about Hyperspectral Imaging(HSI)
+-  🌱 I’m currently working on Hyperspectral Imaging(HSI)
 -  👯 I’m looking to collaborate on Deep Learning based projects 
 -  ⚡ Fun fact: I can sip coffee and sleep the very next minute
 ### 📫 Connect with me:   
