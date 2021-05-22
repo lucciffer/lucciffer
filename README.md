@@ -23,6 +23,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?logo=pytorch)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
