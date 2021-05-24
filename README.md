@@ -52,7 +52,8 @@
 
 <a href="https://github.com/lucciffer/github-readme-stats">
   <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api?username=lucciffer&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lucciffer's github stats" />
-</a>
+</a>  
+
 <a href="https://github.com/lucciffer/github-readme-stats">
   <img align="center" src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/top-langs/?username=lucciffer&layout=compact&theme=material-palenight" />
 </a>
@@ -61,6 +62,7 @@
 <a href="https://lucciffer.github.io">
   <img src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=material-palenight" />
 </a>
+
 [![Readme Card](https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=Novel-View-Generation&theme=material-palenight&show_owner=true)](https://github.com/lucciffer/Novel-View-Generation)
 
 ---
