@@ -74,4 +74,4 @@
 
 Thanks! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/apple/hugging-face-apple.png" height="20" width="20">
 
-
+![Snake animation](https://github.com/sbrunomello/sbrunomello/blob/output/github-contribution-grid-snake.svg)
