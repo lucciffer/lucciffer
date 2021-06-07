@@ -76,3 +76,4 @@ Thanks! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/apple/hugging-face-app
 
 ---
 ![Snake animation](https://github.com/sbrunomello/sbrunomello/blob/output/github-contribution-grid-snake.svg)
+<!--Snake game animation taken from github.com/sbrunomello-->
