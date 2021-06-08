@@ -18,7 +18,6 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks)
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
 ![Assembly](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
