@@ -4,8 +4,8 @@
 
 ##### AI enthusiast
 
--  🌱 I’m currently working on Hyperspectral Imaging(HSI)
--  👯 I’m looking to collaborate on Deep Learning based projects 
+-  🌱 I’m currently working on Multispectral Imaging(MSI) systems
+-  👯 I’m looking to collaborate for Deep Learning based projects 
 -  ⚡ Fun fact: I can sip coffee and sleep the very next minute
 ### 📫 Connect with me:   
    [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter)](https://www.twitter.com/lucciffer__) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?logo=instagram)](http://www.instagram.com/lucciffer._) [![Facebook](https://img.shields.io/badge/-Facebook-FFFFFF?logo=facebook)](https://www.facebook.com/nikhil.akalwadi.9) [![LinkedIN](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169) [![Email](https://img.shields.io/badge/-Email-FFFFFF?logo=gmail)](mailto:nikhilna2000@gmail.com) [![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev%20dot%20to)](https://dev.to/lucciffer)
