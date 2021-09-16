@@ -72,6 +72,7 @@
   <img src="https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=lucciffer.github.io&theme=material-palenight" />
 </a>
 [![Readme Card](https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=Novel-View-Generation&theme=material-palenight&show_owner=true)](https://github.com/lucciffer/Novel-View-Generation)
+[![Ubuntu Setup](https://github-readme-stats-oreoaustin2000-gmailcom.vercel.app/api/pin/?username=lucciffer&repo=ubuntu-setup&theme=material-palenight&show_owner=true)](https://github.com/lucciffer/ubuntu-setup)
 
 ---
 
