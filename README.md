@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks)
+![Octave](https://img.shields.io/badge/-Octave-000000?logo=octave)
 ![Simulink](https://img.shields.io/badge/-Simulink-orange)
 ![Assembly](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)
