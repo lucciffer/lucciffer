@@ -29,6 +29,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000000?logo=opengl)
 ![HTML](https://img.shields.io/badge/-HTML5-000000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![Codepen](https://img.shields.io/badge/-Codepen-000000?logo=codepen)
