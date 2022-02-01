@@ -53,6 +53,7 @@
 ![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?logo=opensuse)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry%20pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?logo=arduino)
+![ARM Architecture](https://img.shields.io/badge/-arm%20architecture-000000?logo=arm)
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)
 <img src="https://img.shields.io/badge/-Problem%20Solving-5C5543?style=flat">  
 
