@@ -40,6 +40,7 @@
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Sstudio-302E31?logo=obsstudio)
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity)
 ![Blender](https://img.shields.io/badge/-Blender-000000?logo=blender)
+![WIX](https://img.shields.io/badge/-WIX-0C6EFC?logo=wix)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code)
