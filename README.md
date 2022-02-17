@@ -4,7 +4,7 @@
 
 ##### AI enthusiast
 
--  🌱 I’m currently working on Multispectral Imaging(MSI) systems and Underwater Image Restoration
+-  🌱 I’m currently working on Multispectral Imaging(MSI) systems, Underwater Image Restoration, 3D Reconstruction, and AR/VR.
 -  👯 I’m looking to collaborate for Deep Learning based projects 
 -  ⚡ Fun fact: I can sip coffee and sleep the very next minute
 ### 📫 Connect with me:   
