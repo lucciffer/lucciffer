@@ -92,5 +92,6 @@ Thanks! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/apple/hugging-face-app
 <!--Snake game animation taken from github.com/sbrunomello-->
 
 <!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@lucciffer07/c8618b84-2200-41a4-bf03-34455eff2786.svg"></embed></figure>
 <!--END_SECTION:waka-->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucciffer07)](https://github.com/anuraghazra/github-readme-stats) -->
