@@ -4,14 +4,14 @@
 
 ##### AI enthusiast
 
--  🌱 I’m currently working on Multispectral Imaging(MSI) systems, Underwater Image Restoration, 3D Reconstruction, and AR/VR.
+-  🌱 I’m currently working on Multispectral Imaging(MSI) systems, Underwater Image Restoration, Low-light Image Enhancement, 3D Reconstruction, and AR/VR.
 -  👯 I’m looking to collaborate for Deep Learning based projects 
 -  ⚡ Fun fact: I can sip coffee and sleep the very next minute
 ### 📫 Connect with me:   
    [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?logo=twitter)](https://www.twitter.com/lucciffer__) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?logo=instagram)](http://www.instagram.com/lucciffer._) [![Facebook](https://img.shields.io/badge/-Facebook-FFFFFF?logo=facebook)](https://www.facebook.com/nikhil.akalwadi.9) [![LinkedIN](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nikhil-akalwadi-7a007a169) [![Email](https://img.shields.io/badge/-Email-FFFFFF?logo=gmail)](mailto:akalwadinikhil@gmail.com) [![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev%20dot%20to)](https://dev.to/lucciffer)
 
 ---
-## ⚡ Languages, Technologies, and Tools experience
+## ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
